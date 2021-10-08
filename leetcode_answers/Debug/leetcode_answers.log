@@ -1,0 +1,3 @@
+﻿  leetcode_answers.cpp
+F:\cpp\Leetcode_record\leetcode_answers\56_Merge_Intervals.h(8,28): warning C4554: '>>': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+  leetcode_answers.vcxproj -> F:\cpp\Leetcode_record\Debug\leetcode_answers.exe
